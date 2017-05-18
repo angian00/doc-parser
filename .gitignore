@@ -1,0 +1,10 @@
+# C byproducts
+*.o
+*.x
+
+#test files
+*.doc
+*.doc.bkp
+
+#specifications must be downloaded from Microsoft site
+spec/*.pdf
