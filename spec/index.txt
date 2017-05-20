@@ -1,3 +1,8 @@
+To be downloaded from:
+https://msdn.microsoft.com/en-us/library
+
 spec-[MS-CFB].pdf
 spec-[MS-DOC].pdf
 spec-[MS-DTYP].pdf
+spec-[MS-OLEPS].pdf
+spec-[MS-OSHARED].pdf
